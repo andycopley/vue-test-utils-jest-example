@@ -1,7 +1,7 @@
 import {
   shallow
 } from 'vue-test-utils'
-import List from '@/components/List.vue'
+import List from '@/components/List'
 import {
   createRenderer
 } from 'vue-server-renderer'
