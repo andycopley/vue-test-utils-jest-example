@@ -1,5 +1,5 @@
 export default {
-  name: 'list',
+  name: 'List',
   props: [
     'items'
   ],

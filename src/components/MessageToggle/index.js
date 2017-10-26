@@ -1,7 +1,7 @@
 import Message from '@/components/Message'
 
 export default {
-  name: 'message-toggle',
+  name: 'MessageToggle',
   data: () => ({
     msg: null
   }),
@@ -16,7 +16,7 @@ export default {
   render () {
     return (
       <div>
-        <Message msg={this.msg} />
+        <message msg={this.msg}></message>
         <button id="toggle-message" onClick={this.toggleMessage}>
           Change message
         </button>

@@ -2,7 +2,7 @@ import MessageToggle from '@/components/MessageToggle'
 import List from '@/components/List'
 
 export default {
-  name: 'page',
+  name: 'Page',
   components: {
     MessageToggle,
     List

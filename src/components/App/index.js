@@ -1,5 +1,5 @@
 export default {
-  name: 'app',
+  name: 'App',
   render () {
     return (
       <div id="app">
