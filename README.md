@@ -1,4 +1,8 @@
-# vue-test-utils-jest-example
+
+
+# vue-test-utils-jest-example - JSX Version
+
+Copied from eddyerburgh's example and converted into JSX
 
 > An example project using vue-test-utils and jest to run unit tests
 
