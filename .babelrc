@@ -18,7 +18,13 @@
           "alias": {
             "@": "./src"
           }
-      }]]
+      }],
+        ["babel-plugin-webpack-loaders",
+        {
+          "config": "./build/webpack.test.conf.js",
+          "verbose": false
+        }]
+      ]
     }
   }
 }
