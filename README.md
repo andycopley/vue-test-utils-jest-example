@@ -2,7 +2,12 @@
 
 # vue-test-utils-jest-example - JSX Version
 
-Copied from eddyerburgh's example and converted into JSX
+Copied from eddyerburgh's example and converted into JSX.
+
+Styles imported through `import` command per component, and handled in
+Jest tests.
+
+----
 
 > An example project using vue-test-utils and jest to run unit tests
 
